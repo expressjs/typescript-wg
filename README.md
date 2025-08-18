@@ -40,6 +40,8 @@ Two teams exist for mentioning the group and managing access:
 
 - [Jon Church](https://github.com/jonchurch) (Captain)
 - [Sebastian Beltran](https://github.com/bjohansebas) (Captain)
+- [Phillip Barta](https://github.com/Phillip9587)
+- [Hichem](https://github.com/clicktodev)
 
 ## Meetings
 
